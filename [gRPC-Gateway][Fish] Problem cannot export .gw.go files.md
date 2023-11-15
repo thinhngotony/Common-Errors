@@ -1,4 +1,4 @@
-# In that I have this
+# Fix bug can't export .gw.go files with golang and gRPC gateway
 Exported on 15/11/2023 11:46:09 [from Phind Agent](https://www.phind.com/agent?cache=cloz7z5gz000qif0887vwi26a) - with [SaveMyChatbot](https://save.hugocollin.com)
 
 #### User
